@@ -8,6 +8,7 @@ My Awesome list of Platform as a Serivce
 * [Tsuru](https://github.com/tsuru/tsuru): Tsuru is a Docker-based Platform as a Service (PaaS)
 * [Elast.io](https://elest.io/fully-managed-services): Fully managed DevOps platform to deploy your code and open-source software.
 * [Dokku](https://dokku.com/): An open source PAAS alternative to Heroku.
+* [Coolify](https://coolify.io/): An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
 
 ## External Curated Lists
 
