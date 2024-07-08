@@ -14,3 +14,9 @@ My Awesome list of Platform as a Serivce
 
 * [mitja](https://github.com/mitja/awesome-paas)
 * [ripienaar](https://github.com/ripienaar/free-for-dev#paas)
+
+## App Templates
+
+A list of sources that gives inspiration of applications to use.
+
+- [Ethibox Stacks](https://github.com/ethibox/awesome-stacks/tree/master/stacks)
