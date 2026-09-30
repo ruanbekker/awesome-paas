@@ -9,6 +9,7 @@ My Awesome list of Platform as a Serivce
 * [Elast.io](https://elest.io/fully-managed-services): Fully managed DevOps platform to deploy your code and open-source software.
 * [Dokku](https://dokku.com/): An open source PAAS alternative to Heroku.
 * [Coolify](https://coolify.io/): An open-source & self-hostable Heroku / Netlify / Vercel alternative. 
+* [Peon](https://peon.sh/): Open-source self-hosted Docker PaaS with project RBAC, audit logs, and MCP — Coolify/Dokploy alternative.
 
 ## External Curated Lists
 
